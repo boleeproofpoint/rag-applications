@@ -179,3 +179,4 @@ cython_debug/
 # hiding
 notebooks/sqlite3.db
 answers/
+user_data/
